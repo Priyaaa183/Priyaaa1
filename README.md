@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priya Maheshwari</h1>
-<h3 align="center">Learning and Growing :)</h3> 
+<h3 align="center">Learning and Growing ✨</h3> 
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 <br>
