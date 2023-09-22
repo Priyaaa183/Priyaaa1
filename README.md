@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priya Maheshwari</h1>
 <h3 align="center">Learning and Growing ✨</h3> 
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
-<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/priya-maheshwari-042b8722a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priya-maheshwari-042b8722a" height="30" width="40" /></a>
